@@ -13,10 +13,9 @@ Aplikasi Data Resep Masakan adalah aplikasi sederhana berbasis Flutter yang digu
 
 # Fitur Aplikasi
 1. Create (Tambah Data Resep)
-Pengguna dapat menambahkan resep baru dengan mengisi nama resep, bahan, dan cara memasak melalui tombol + yg tersedia di pojok kanan.
-![WhatsApp Image 2026-02-27 at 16 14 25](https://github.com/user-attachments/assets/8cc8722c-502d-40f3-a143-d8cf4b82b32f)
+Pengguna dapat menambahkan resep baru dengan mengisi nama resep, bahan, dan cara memasak melalui tombol + yg tersedia di pojok kanan halaman utama.
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/92b13c0e-19f0-4ed3-9975-6cc8918c67f2" />
 <img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/d14bdd50-f67d-4a20-bcbd-68ad5381c7cd" />
-<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/8caa3482-0590-4d05-9d2a-14ddfa87b425" />
 
 3. Read (Menampilkan Data Resep)
 Aplikasi menampilkan daftar semua resep yang sudah ditambahkan pada halaman utama.
